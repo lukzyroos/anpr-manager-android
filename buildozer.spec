@@ -8,7 +8,7 @@ source.include_exts = py,png,jpg,kv,atlas
 
 version = 1.0
 
-requirements = python3==3.11.6,kivy==2.2.1,requests,urllib3,idna,certifi,charset-normalizer
+requirements = python3==3.11.6,hostpython3==3.11.6,kivy==2.2.1,requests,urllib3,idna,certifi,charset-normalizer
 
 icon.filename = %(source.dir)s/icon.png
 presplash.filename = %(source.dir)s/presplash.png
